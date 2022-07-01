@@ -320,10 +320,10 @@ main::before{
     font-size: 12px;
     padding-left: 10px;
 }
-.message-area button{
+.message-area .button{
     background-color: var(--Very-Dark-Desaturated-Violet);
-    width: 35px;
-    height: 35px;
+    width: 33px;
+    height: 33px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
