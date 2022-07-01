@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
--[Desktop Screenshot](./screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png)
+-[Desktop Screenshot](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png)
 
--[Mobile Screenhots](./screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_27 AM.png)
--[Mobile Screenhots](./screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_36 AM.png)
+-[Mobile Screenhots](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_27 AM.png)
+-[Mobile Screenhots](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_36 AM.png)
 
 
 ## My process
