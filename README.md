@@ -6,15 +6,12 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 - This project build using flex-box 
@@ -25,13 +22,6 @@ Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 - **Bonus**: See the chat interface animate on the initial load
-
-### Screenshot
-chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png
--[Desktop Screenshot](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png)
-
--[Mobile Screenhots](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_27 AM.png)
--[Mobile Screenhots](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_36 AM.png)
 
 
 ## My process
