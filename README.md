@@ -27,7 +27,7 @@ Users should be able to:
 - **Bonus**: See the chat interface animate on the initial load
 
 ### Screenshot
-
+chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png
 -[Desktop Screenshot](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_09 AM.png)
 
 -[Mobile Screenhots](../chat-app-css-illustration-master/screenshots/chat-app-css-illustration-master - Personal - Microsoft​ Edge 1_07_2022 9_52_27 AM.png)
